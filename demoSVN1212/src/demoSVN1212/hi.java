@@ -4,5 +4,6 @@ public class hi {
 	public static void main(String[] args) {
 		System.out.print("hihihi");
 		System.out.print("okok");
+		System.out.print("khong co thay doi");
 	}
 }
